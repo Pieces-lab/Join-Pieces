@@ -1,24 +1,23 @@
 ---
-name: 加入组织申请
-about: 介绍自己并申请加入组织
-title: "[加入申请] "
+name: Join the organization
+about: Introduce yourself and apply to join
+title: "[Join request] "
 ---
 
-## GitHub 用户名
+[简体中文](https://github.com/Pieces-lab/Join-Pieces/blob/main/.github/ISSUE_TEMPLATE/join.zh-CN.md)
 
-<!-- 例如：@your-name -->
+## GitHub username
 
+<!-- For example: @your-username -->
 
-## 成员名字或昵称
+## Name or nickname
 
-<!-- 这里填写你希望展示在成员名单中的名字。 -->
+<!-- Use the name you want to show in the member list. -->
 
+## Why do you want to join?
 
-## 为什么加入
+<!-- Keep this brief; it will appear in the README member list. -->
 
-<!-- 简短说明原因；这段内容会写入 README 的成员名单。 -->
+## Projects or work (optional)
 
-
-## 项目或作品（可选）
-
-<!-- 可以贴链接；暂时没有也没关系。 -->
+<!-- Share links if you have them. -->

@@ -1,22 +1,24 @@
 # Join Pieces
 
-这里记录已加入组织的成员，也作为申请加入组织的入口。成员可以在组织专用仓库中介绍自己的经历、项目和作品。
+[简体中文](README.zh-CN.md)
 
-## 加入的好处
+This repository lists the members of the organization and serves as the entry point for new applications. Members can share their experiences, projects, and work in a dedicated repository within the organization.
 
-你可以在组织专用仓库中展示自己的项目、作品和个人网站，介绍你正在做的事，建立自己的个人品牌。成员名单也为其他人提供了认识你的入口，让更多人有机会发现你的内容。
+## Why join?
 
-## 如何加入
+Use your dedicated repository to introduce yourself, showcase your projects and work, and link to your personal website. The member list gives others a way to find you through the organization and discover what you create.
 
-- 使用[加入申请模板](.github/ISSUE_TEMPLATE/join.md)新建 issue，介绍自己和想加入组织的原因。
-- Fork 本仓库，在下方成员表格末尾新增一行，填写成员名字、GitHub 主页和加入原因；加入日期暂时填写「—」。
-- 提交 PR，按 [PR 模板](.github/pull_request_template.md)填写说明，并用 `Closes #123` 关联申请 issue（将 `123` 换成实际编号）。
-- 仓库作者查看申请。PR 合并后，作者会为申请人提供一个组织专用仓库，用来持续记录和展示自己的内容。
+## How to join
 
-## 成员名单
+- Open an issue using the [application template](.github/ISSUE_TEMPLATE/join.md). Tell us who you are and why you want to join.
+- Fork this repository. Replace the example row in the member table with your name, GitHub profile, and reason for joining. If the example has already been replaced, add a new row at the bottom. Leave the join date as `—`.
+- Open a PR using the [PR template](.github/pull_request_template.md). Link your application issue with `Closes #123`, replacing `123` with your issue number.
+- The repository owner will review your application. After your PR is merged, they will provide a dedicated repository within the organization for your content.
 
-| 成员 | GitHub 账号 | 为什么加入 | 加入日期 |
+## Members
+
+| Member | GitHub account | Why they joined | Join date |
 | --- | --- | --- | :---: |
-| gdemoni | [@gdemoni](https://github.com/gdemoni) | — | — |
+| Example (replace this row) | [@your-username](https://github.com/your-username) | I want to share my projects and meet other creators. | — |
 
-加入日期由仓库作者在合并 PR 时填写。成员之后也可以通过 PR 更新自己的记录。
+The example above is not a member. The repository owner will fill in the join date when merging an application PR. Members can update their entries through later PRs.

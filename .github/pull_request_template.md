@@ -1,17 +1,19 @@
-## 关联的加入申请
+[简体中文](https://github.com/Pieces-lab/Join-Pieces/blob/main/.github/pull_request_template.zh-CN.md)
 
-<!-- 将 ISSUE_NUMBER 换成你的 issue 编号，例如 Closes #123。 -->
+## Related application issue
+
+<!-- Replace ISSUE_NUMBER with your issue number, for example Closes #123. -->
 Closes #ISSUE_NUMBER
 
-## 成员信息
+## Member details
 
-- 名字或昵称：
-- GitHub 主页：
-- 为什么加入：
+- Name or nickname:
+- GitHub profile:
+- Why you want to join:
 
-## 提交前确认
+## Checklist
 
-- [ ] 我已在 README 的成员表格末尾新增一行。
-- [ ] 新行的名字、GitHub 链接和加入原因与申请 issue 中的信息一致。
-- [ ] 加入日期暂时填写为「—」。
-- [ ] 上方已关联我的加入申请 issue。
+- [ ] I replaced the example row in both README files, or added a new row at the bottom of both tables.
+- [ ] My name, GitHub link, and reason for joining match my application issue.
+- [ ] I left the join date as `—`.
+- [ ] I linked my application issue above.
