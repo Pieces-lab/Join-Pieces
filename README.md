@@ -10,6 +10,8 @@ Use your dedicated repository to introduce yourself, showcase your projects and 
 
 ## How to join
 
+See the [contribution guide](CONTRIBUTING.md) for the full process.
+
 - Open an issue using the [application template](.github/ISSUE_TEMPLATE/join.md). Tell us who you are and why you want to join.
 - Fork this repository. Add one row at the bottom of the member table with your name, GitHub profile, and reason for joining. Leave the join date as `—`.
 - Open a PR using the [PR template](.github/pull_request_template.md). Link your application issue with `Closes #123`, replacing `123` with your issue number.
@@ -28,3 +30,7 @@ Use your dedicated repository to introduce yourself, showcase your projects and 
 | Your Name | [@your-username](https://github.com/your-username) | I want to share my projects and meet other creators. | — |
 
 The repository owner will fill in the join date when merging an application PR. Members can update their entries through later PRs. Empty rows are not reserved: simultaneous edits to the end of the table may conflict, and GitHub will not automatically move a later PR's row below a newly merged one.
+
+## License
+
+The content in this repository is licensed under [CC BY 4.0](LICENSE). Linked personal websites and dedicated member repositories have their own terms.

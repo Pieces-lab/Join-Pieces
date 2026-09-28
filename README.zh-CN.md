@@ -10,6 +10,8 @@
 
 ## 如何加入
 
+完整流程见[贡献指南](CONTRIBUTING.zh-CN.md)。
+
 - 使用[加入申请模板](.github/ISSUE_TEMPLATE/join.zh-CN.md)新建 issue，介绍自己和想加入组织的原因。
 - Fork 本仓库，在下方成员表格末尾新增一行，填写自己的名字、GitHub 主页和加入原因。加入日期暂时填写「—」。
 - 按 [PR 模板](.github/pull_request_template.zh-CN.md)提交 PR，并用 `Closes #123` 关联申请 issue（将 `123` 换成实际编号）。
@@ -28,3 +30,7 @@
 | 你的名字 | [@your-username](https://github.com/your-username) | 我想分享自己的项目，认识更多创作者。 | — |
 
 加入日期由仓库作者在合并申请 PR 时填写。成员之后也可以通过 PR 更新自己的记录。这里不预留空行：多人同时修改表格末尾时可能发生冲突，GitHub 不会自动把后合并的记录移到新成员下面。
+
+## 许可证
+
+本仓库的内容采用 [CC BY 4.0](LICENSE) 许可。成员个人网站及组织专用仓库的内容遵循各自的授权规则。
