@@ -13,7 +13,8 @@ Closes #ISSUE_NUMBER
 
 ## Checklist
 
-- [ ] I replaced the example row in both README files, or added a new row at the bottom of both tables.
+- [ ] I added one row at the bottom of the member table in both README files.
 - [ ] My name, GitHub link, and reason for joining match my application issue.
 - [ ] I left the join date as `—`.
 - [ ] I linked my application issue above.
+- [ ] I synced with the latest `main`, kept all existing member rows, and resolved any conflicts caused by other merged PRs.
