@@ -23,6 +23,7 @@
 | 成员 | GitHub 账号 | 为什么加入 | 加入日期 |
 | --- | --- | --- | :---: |
 | gdemoni | [@gdemoni](https://github.com/gdemoni) | 分享个人网站与项目，结识更多创作者。 | — |
+| <img src="https://avatars.githubusercontent.com/u/189326770?s=80&amp;v=4" width="36" height="36" alt="SKYJJGW 头像"> SKYJJGW | [@skyjjgw](https://github.com/skyjjgw) | 分享 AI 应用与自动化工具，和社区交流可落地的软件项目。 | — |
 
 ### 示例（并非真实成员）
 
