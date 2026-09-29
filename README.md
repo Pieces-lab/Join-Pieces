@@ -22,6 +22,7 @@ See the [contribution guide](CONTRIBUTING.md) for the full process.
 
 | Member | GitHub account | Why they joined | Join date |
 | --- | --- | --- | :---: |
+| gdemoni | [@gdemoni](https://github.com/gdemoni) | To share my personal website and projects, and connect with other creators. | — |
 
 ### Example (not a member)
 
