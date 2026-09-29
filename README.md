@@ -22,7 +22,7 @@ See the [contribution guide](CONTRIBUTING.md) for the full process.
 
 | Member | GitHub account | Why they joined | Join date |
 | --- | --- | --- | :---: |
-| gdemoni | [@gdemoni](https://github.com/gdemoni) | To share my personal website and projects, and connect with other creators. | — |
+| <img src="https://avatars.githubusercontent.com/u/229883117?s=80&amp;v=4" width="36" height="36" alt="gdemoni avatar"> gdemoni | [@gdemoni](https://github.com/gdemoni) | To share my personal website and projects, and connect with other creators. | — |
 | <img src="https://avatars.githubusercontent.com/u/189326770?s=80&amp;v=4" width="36" height="36" alt="SKYJJGW avatar"> SKYJJGW | [@skyjjgw](https://github.com/skyjjgw) | To share AI applications and automation tools and exchange ideas on practical software projects. | — |
 
 ### Example (not a member)
