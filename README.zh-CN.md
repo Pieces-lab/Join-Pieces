@@ -1,23 +1,16 @@
 # Join Pieces
 
-
 [English](README.md)
-
 
 本仓库记录已加入组织的成员，也是申请加入组织的入口。成员可以在组织专用仓库中介绍自己的经历、项目和作品。
 
-
 ## 加入的好处
-
 
 你可以在组织专用仓库中介绍自己、展示项目和作品，并放上个人网站链接。成员名单也让其他人能通过组织找到你，看到你创作的内容。
 
-
 ## 如何加入
 
-
 完整流程见[贡献指南](CONTRIBUTING.zh-CN.md)。
-
 
 - 使用[加入申请模板](.github/ISSUE_TEMPLATE/join.zh-CN.md)新建 issue，介绍自己和想加入组织的原因。
 - Fork 本仓库，在下方成员表格末尾新增一行，填写自己的名字、GitHub 主页和加入原因。加入日期暂时填写「—」。
@@ -25,30 +18,22 @@
 - 提交 PR 前、合并前，都要同步最新的 `main`。确认已有成员仍在表格中，自己的记录排在当前最后一位成员之后。如果其他人的 PR 先合并了，请更新分支，并解决两份 README 中可能出现的冲突。
 - 仓库作者会查看申请。PR 合并后，作者会为申请人提供一个组织专用仓库，用来持续记录和展示自己的内容。
 
-
 ## 成员名单
-
 
 | 成员 | GitHub 账号 | 为什么加入 | 加入日期 |
 | --- | --- | --- | :---: |
 | gdemoni | [@gdemoni](https://github.com/gdemoni) | 分享个人网站与项目，结识更多创作者。 | — |
- 
-
 | <img src="https://avatars.githubusercontent.com/u/189326770?s=80&amp;v=4" width="36" height="36" alt="SKYJJGW 头像"> SKYJJGW | [@skyjjgw](https://github.com/skyjjgw) | 分享 AI 应用与自动化工具，和社区交流可落地的软件项目。 | — |
+| Good Morning | [@gdemoni-lab](https://github.com/gdemoni-lab) | 分享 AI Agent 与自动化方面的实践，和社区里的创作者交流。 | — |
 
 ### 示例（并非真实成员）
-
 
 | 成员 | GitHub 账号 | 为什么加入 | 加入日期 |
 | --- | --- | --- | :---: |
 | 你的名字 | [@your-username](https://github.com/your-username) | 我想分享自己的项目，认识更多创作者。 | — |
 
-
 加入日期由仓库作者在合并申请 PR 时填写。成员之后也可以通过 PR 更新自己的记录。这里不预留空行：多人同时修改表格末尾时可能发生冲突，GitHub 不会自动把后合并的记录移到新成员下面。
-
 
 ## 许可证
 
-
 本仓库的内容采用 [CC BY 4.0](LICENSE) 许可。成员个人网站及组织专用仓库的内容遵循各自的授权规则。
-
