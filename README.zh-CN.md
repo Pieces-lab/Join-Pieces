@@ -22,6 +22,7 @@
 | --- | --- | --- | :---: |
 | <img src="https://avatars.githubusercontent.com/u/229883117?s=96&amp;v=4" width="44" height="44" alt="gdemoni 头像"><br><b>gdemoni</b> | [@gdemoni](https://github.com/gdemoni) | 分享个人网站与项目，结识更多创作者。 | — |
 | <img src="https://avatars.githubusercontent.com/u/189326770?s=96&amp;v=4" width="44" height="44" alt="SKYJJGW 头像"><br><b>SKYJJGW</b> | [@skyjjgw](https://github.com/skyjjgw) | 分享 AI 应用与自动化工具，和社区交流可落地的软件项目。 | — |
+| <img src="https://avatars.githubusercontent.com/u/241082014?s=96&amp;v=4" width="44" height="44" alt="xiaolin 头像"><br><b>xiaolin</b> | [@linyuchao123](https://github.com/linyuchao123) | 与社区交流、向大家学习，并共同创作 AI、软件开发及开源项目。 | — |
 
 <sub>按合并顺序排列 · 加入日期由仓库作者在合并申请 PR 时填写 · 成员可通过 PR 更新自己的记录</sub>
 

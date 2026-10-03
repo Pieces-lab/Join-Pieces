@@ -22,6 +22,7 @@ Use your dedicated repository to introduce yourself, showcase your projects and 
 | --- | --- | --- | :---: |
 | <img src="https://avatars.githubusercontent.com/u/229883117?s=96&amp;v=4" width="44" height="44" alt="gdemoni avatar"><br><b>gdemoni</b> | [@gdemoni](https://github.com/gdemoni) | To share my personal website and projects, and connect with other creators. | — |
 | <img src="https://avatars.githubusercontent.com/u/189326770?s=96&amp;v=4" width="44" height="44" alt="SKYJJGW avatar"><br><b>SKYJJGW</b> | [@skyjjgw](https://github.com/skyjjgw) | To share AI applications and automation tools and exchange ideas on practical software projects. | — |
+| <img src="https://avatars.githubusercontent.com/u/241082014?s=96&amp;v=4" width="44" height="44" alt="xiaolin avatar"><br><b>xiaolin</b> | [@linyuchao123](https://github.com/linyuchao123) | To connect with the community, learn from others, and build AI, software, and open-source projects together. | — |
 
 <sub>Listed in merge order · Join dates are filled in by the repository owner when merging application PRs · Members can update their entries through PRs</sub>
 
